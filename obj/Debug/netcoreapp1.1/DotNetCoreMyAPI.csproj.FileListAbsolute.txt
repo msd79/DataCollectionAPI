@@ -1,0 +1,9 @@
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Debug\netcoreapp1.1\DotNetCoreMyAPI.deps.json
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Debug\netcoreapp1.1\DotNetCoreMyAPI.runtimeconfig.json
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Debug\netcoreapp1.1\DotNetCoreMyAPI.runtimeconfig.dev.json
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Debug\netcoreapp1.1\DotNetCoreMyAPI.dll
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Debug\netcoreapp1.1\DotNetCoreMyAPI.pdb
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\obj\Debug\netcoreapp1.1\DotNetCoreMyAPI.AssemblyInfo.cs
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\obj\Debug\netcoreapp1.1\DotNetCoreMyAPI.dll
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\obj\Debug\netcoreapp1.1\DotNetCoreMyAPI.pdb
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\obj\Debug\netcoreapp1.1\DotNetCoreMyAPI.csprojResolveAssemblyReference.cache

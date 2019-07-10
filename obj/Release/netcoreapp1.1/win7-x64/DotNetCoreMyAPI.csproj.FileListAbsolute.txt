@@ -1,0 +1,11 @@
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Release\netcoreapp1.1\win7-x64\DotNetCoreMyAPI.deps.json
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Release\netcoreapp1.1\win7-x64\DotNetCoreMyAPI.runtimeconfig.json
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Release\netcoreapp1.1\win7-x64\DotNetCoreMyAPI.runtimeconfig.dev.json
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\obj\Release\netcoreapp1.1\win7-x64\DotNetCoreMyAPI.AssemblyInfo.cs
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Release\netcoreapp1.1\win7-x64\hostpolicy.dll
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Release\netcoreapp1.1\win7-x64\hostfxr.dll
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Release\netcoreapp1.1\win7-x64\DotNetCoreMyAPI.exe
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Release\netcoreapp1.1\win7-x64\DotNetCoreMyAPI.dll
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\bin\Release\netcoreapp1.1\win7-x64\DotNetCoreMyAPI.pdb
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\obj\Release\netcoreapp1.1\win7-x64\DotNetCoreMyAPI.dll
+C:\Users\mdamlica\.vscode\DotNetCoreMyAPI\obj\Release\netcoreapp1.1\win7-x64\DotNetCoreMyAPI.pdb

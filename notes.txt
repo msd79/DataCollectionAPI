@@ -1,0 +1,4 @@
+
+https://docs.microsoft.com/en-us/aspnet/core/hosting/windows-service
+sc.exe create Service-Name binPath= "Path to the dotnet core executable"
+dotnet publish -c release -r win7-x64
